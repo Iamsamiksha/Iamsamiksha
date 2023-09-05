@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning: **Java**
+- 🔭 Language, that I’m currently learning: **Java**
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently making projects with: **HTML,CSS,JS**
 
-- 👨‍💻 All of my projects are available at [https://iamsamiksha.github.io/Personal-portfolio/](https://iamsamiksha.github.io/Personal-portfolio/)
+- 👨‍💻 You can visit my personal portfolio website at: [https://iamsamiksha.github.io/Personal-portfolio/](https://iamsamiksha.github.io/Personal-portfolio/)
 
 - 💬 Ask me about **My journey,mistakes and experiences**
 
 - 📫 How to reach me **samiksha.code24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing](https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing)
+- 📄 Checkout my resume [https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing](https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am a complete package of entertainment**
 
