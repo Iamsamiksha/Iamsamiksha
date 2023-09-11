@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samiksha-agrawal-46a637275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samiksha-agrawal-46a637275/" height="30" width="40" /></a>
   
-<a href="https://www.instagram.com/bansal_samiksha24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bansal_samiksha24" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bansal_samiksha24/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://tse3.mm.bing.net/th?id=OIP.5GfDiEib0Yd4NCcXzmD4hQHaHa&pid=Api&P=0&h=180)" alt="bansal_samiksha24" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/channel/UCj0n_hH6WApbSu066RYeXxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samiksha.code24" height="30" width="40" /></a>
 </p>
