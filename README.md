@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samiksha-agrawal-46a637275/" target="blank"><img align="center" src="  https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)" alt="https://www.linkedin.com/in/samiksha-agrawal-46a637275/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samiksha-agrawal-46a637275/" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="https://www.linkedin.com/in/samiksha-agrawal-46a637275/" height="30" width="40" /></a>
   
 <a href="https://www.instagram.com/bansal_samiksha24/" target="blank"><img align="center" src="https://i.pinimg.com/736x/dc/70/7c/dc707c0e2e4a1883d4ebb81d107aec9a.jpg" alt="bansal_samiksha24" height="30" width="40" /></a>
 
