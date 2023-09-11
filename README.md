@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Samiksha<br> 👨‍💻Know me more:https://sites.google.com/view/samikshain/home</h1>
+<h1 align="center">Hi 👋, I'm Samiksha<br> </h1>
 <h3 align="center">An enthusiast frontend developer and designer</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/230/221/original/business-girl-developer-character-illustration-vector.jpg">
 
@@ -12,6 +12,8 @@
 - 🌱 I’m currently making projects with: **HTML,CSS,JS**
 
 - 👨‍💻 You can visit my personal portfolio website at: [https://iamsamiksha.github.io/Personal-portfolio/](https://iamsamiksha.github.io/Personal-portfolio/)
+  
+- ⚡ Know me more:https://sites.google.com/view/samikshain/home
 
 - 💬 Ask me about **My journey,mistakes and experiences**
 
