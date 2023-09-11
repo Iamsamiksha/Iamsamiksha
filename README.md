@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Samiksha</h1>
+<h1 align="center">Hi 👋, I'm Samiksha<br> 👨‍💻Know me more:https://sites.google.com/view/samikshain/home</h1>
 <h3 align="center">An enthusiast frontend developer and designer</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/230/221/original/business-girl-developer-character-illustration-vector.jpg">
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **samiksha.code24@gmail.com**
 
-- 📄 Checkout my resume [https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing](https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing)
+- 📄 Checkout my resume [https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing]([https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing](https://drive.google.com/file/d/1r-VV_DduiZs-3Cu4lQ2kZkB1yZFU_6KD/view?usp=sharing))
 
 - ⚡ Fun fact **I think I am a complete package of entertainment**
 
